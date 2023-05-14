@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @SushmaO
-- 🌱 I’m currently learning Web Development.
-- 💞️ and I have basic knowledge of C, C++, python
+- 👋 Hi, I’m @SushmaOinam
+- 🌱 Currently, I am interested in gaining skills and experience in machine learning and its sub domains.
+- 💞️ and I have basic knowledge of C, C++, python, machine learning, natural language processing, java.
+
 
 
 <!---
