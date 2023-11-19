@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SushmaOinam
-- 🌱 Currently, I am interested in gaining skills and experience in machine learning and its sub domains.
+- 🌱 I am interested in gaining skills and experience in machine learning and its sub domains.
 - 💞️ and I have basic knowledge of C, C++, python, machine learning, natural language processing, java.
+- Currently, I am doing mini projects which integrates machine learning and web addplications.
 
 
 
